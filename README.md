@@ -2,6 +2,8 @@
 
 ## Your safe and reliable social network.
 
+Live: https://powerful-plateau-66986.herokuapp.com/
+
 # Description: 
 Social VISA is the newest alternative to mass social media aaplication developed in responce to growing concerns over data privacy and social responsability of main social media products. Recent events of reliability issues added additional concerns and highlighted the need of a better alternative. 
 Social VISA is a invite only Social media platform ensuring that everyone in it is recommended by a current user, your data is never shared with anyone out of your network making sure its safe.
