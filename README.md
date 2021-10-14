@@ -40,3 +40,7 @@ Social VISA is a invite only Social media platform ensuring that everyone in it 
     
   ## Contributing
   Please contact creators to contribute.
+  
+  ## Contact
+  Email: victor.lupascu.1985@gmail.com
+  LinkedIn: https://www.linkedin.com/in/victor-lupascu-823650209/
